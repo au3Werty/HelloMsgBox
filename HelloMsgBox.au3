@@ -1,1 +1,1 @@
-MsgBox($MB_SYSTEMMODAL, "Hello", "Hello from the Internet")
+MsgBox(4096, "Hello", "Hello from the Internet")
