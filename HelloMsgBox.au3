@@ -1,1 +1,1 @@
-MsgBox(4096, ''Hello World!'', ''Hi!'')
+MsgBox(4096, ''Hello World!'', ''Hi2!'')
